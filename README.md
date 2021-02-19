@@ -78,20 +78,13 @@ optional arguments:
 Buildings Segmentation  Img - GT - Prediction
 
 ![Buildings](Images/Segmentation/building.png)
-
-Roads Segmentation
-
-![Roads](Images/Segmentation/roads.png)
-
-More Examples of Buidingds Segmentations
-
 ![Buidings group](Images/Segmentation/building0.png)
 ![Buidings group](Images/Segmentation/building1.png)
 ![Buidings group](Images/Segmentation/building2.png)
 
 
-More Examples of Roads Segmentations
+Roads Segmentation
 
+![Roads](Images/Segmentation/roads.png)
 ![Roads_group](Images/Segmentation/roads.png)
 
-(Images/Segmentation/roads.png)(Images/Segmentation/roads.png)
