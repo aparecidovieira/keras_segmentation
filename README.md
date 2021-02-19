@@ -72,3 +72,11 @@ optional arguments:
                         fusionNet, fusionNet2, unet, fusionnet_atten, temp,
                         vgg_unet, fusionnet_ppl
 ```
+
+## Results
+
+Buildings Segmentation
+![Buildings](Images/Segmentation/building.png)
+![Roads](Images/Segmentation/roads.png)
+
+
