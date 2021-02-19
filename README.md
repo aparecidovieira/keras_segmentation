@@ -11,7 +11,7 @@ Details can be found in these papers:
 * [Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation](https://arxiv.org/abs/1802.06955)
 
 ## Comparisson of different types of U-Net
-![types U-Net](images/image0.png)
+![types U-Net](Images/runet.png)
 
 
 * (a) Basic convolutional unit in U-Net
