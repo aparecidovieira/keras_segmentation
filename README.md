@@ -83,4 +83,4 @@ Roads Segmentation
 
 ![Roads](Images/Segmentation/roads.png)
 
-![Roads&Buildings](Images/Segmentation/roads.png, Images/Segmentation/roads.png, Images/Segmentation/roads.png)
+![Roads&Buildings](Images/Segmentation/roads.png)(Images/Segmentation/roads.png)(Images/Segmentation/roads.png)
