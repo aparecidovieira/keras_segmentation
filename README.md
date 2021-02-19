@@ -7,3 +7,8 @@ Details can be found in these papers:
 
 
 [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999)
+
+## Requirements
+Python 3.6
+CUDA 10.0
+Keras 2.0
