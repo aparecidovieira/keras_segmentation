@@ -85,9 +85,9 @@ Roads Segmentation
 
 More Examples of Buidingds Segmentations
 
-![Buidings group](Images/Segmentation/buildings0.png)
-![Buidings group](Images/Segmentation/buildings1.png)
-![Buidings group](Images/Segmentation/buildings2.png)
+![Buidings group](Images/Segmentation/building0.png)
+![Buidings group](Images/Segmentation/building1.png)
+![Buidings group](Images/Segmentation/building2.png)
 
 
 More Examples of Roas Segmentations
