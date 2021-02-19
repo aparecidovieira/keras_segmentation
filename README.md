@@ -7,7 +7,8 @@ Details can be found in these papers:
 
 * [Unet: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 * [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999)
-* [Unet: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+* [FusionNet: A deep fully residual convolutional neural network
+for image segmentation in connectomics([https://arxiv.org/pdf/1612.05360.pdf])
 
 ## Requirements
 * Python 3.6
