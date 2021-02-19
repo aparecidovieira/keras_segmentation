@@ -1,5 +1,5 @@
 # Keras Segmentation
-Keras segmentation models, Attention Unet, Fusion Net, and Lane Net
+Keras segmentation models, Attention Unet, Recurrent U-Net, Fusion Net, and Lane Net
 
 Image Segmentation using neural networks (NNs), designed for extracting the road network from remote sensing imagery and it can be used in other applications labels every pixel in the image (Semantic segmentation) 
 
@@ -19,6 +19,11 @@ Details can be found in these papers:
 * (b) Convolutional unint in RU-Net
 * (c) Convolutional unit in Residual U-Net
 * (d) Convolutional unit in R2U-Net
+
+## Attention U-Net extra module
+
+![AU-Net](Images/aunet.png)
+![AU-Net - 1](Images/aunet1.png)
 
 
 ## Requirements
