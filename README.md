@@ -83,4 +83,15 @@ Roads Segmentation
 
 ![Roads](Images/Segmentation/roads.png)
 
-![Roads&Buildings](Images/Segmentation/roads.png)(Images/Segmentation/roads.png)(Images/Segmentation/roads.png)
+More Examples of Buidingds Segmentations
+
+![Buidings group](Images/Segmentation/buildings0.png)
+![Buidings group](Images/Segmentation/buildings1.png)
+![Buidings group](Images/Segmentation/buildings2.png)
+
+
+More Examples of Roas Segmentations
+
+![Roads_group](Images/Segmentation/roads.png)
+
+(Images/Segmentation/roads.png)(Images/Segmentation/roads.png)
