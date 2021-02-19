@@ -31,6 +31,8 @@ Details can be found in these papers:
 utils.py and helper.py 
 functions for preprocessing data and saving it.
 
+
+## Trainig model:
 ```
 usage: train.py [-h] [--num_epochs NUM_EPOCHS] [--save SAVE] [--gpu GPU]
                 [--checkpoint CHECKPOINT] [--class_balancing CLASS_BALANCING]
@@ -38,7 +40,6 @@ usage: train.py [-h] [--num_epochs NUM_EPOCHS] [--save SAVE] [--gpu GPU]
                 [--batch_size BATCH_SIZE] [--one_hot_label ONE_HOT_LABEL]
                 [--data_aug DATA_AUG] [--change CHANGE] [--height HEIGHT]
                 [--width WIDTH] [--channels CHANNELS] [--model MODEL]
-```
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -66,3 +67,4 @@ optional arguments:
   --model MODEL         The model you are using. Currently supports:
                         fusionNet, fusionNet2, unet, fusionnet_atten, temp,
                         vgg_unet, fusionnet_ppl
+```
