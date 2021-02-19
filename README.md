@@ -23,7 +23,7 @@ Details can be found in these papers:
 ## Attention U-Net extra module
 
 ![AU-Net](Images/aunet.png)
-![AU-Net - 1](Images/aunet1.png)
+##![AU-Net - 1](Images/aunet1.png)
 
 
 ## Requirements
