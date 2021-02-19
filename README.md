@@ -1,4 +1,4 @@
-# keras_segmentation
+# Keras Segmentation
 Keras segmentation models, Attention Unet, Fusion Net, and Lane Net
 
 Image Segmentation using neural networks (NNs), designed for extracting the road network from remote sensing imagery and it can be used in other applications labels every pixel in the image (Semantic segmentation) 
