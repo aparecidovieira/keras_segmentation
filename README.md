@@ -6,4 +6,4 @@ Image Segmentation using neural networks (NNs), designed for extracting the road
 Details can be found in these papers:
 
 
-![https://arxiv.org/abs/1804.03999][Attention U-Net: Learning Where to Look for the Pancreas]
+![https://arxiv.org/abs/1804.03999](Attention U-Net: Learning Where to Look for the Pancreas)
