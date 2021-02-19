@@ -75,7 +75,7 @@ optional arguments:
 
 ## Results
 
-Buildings Segmentation
+Buildings Segmentation  Img - GT - Prediction
 
 ![Buildings](Images/Segmentation/building.png)
 
@@ -90,7 +90,7 @@ More Examples of Buidingds Segmentations
 ![Buidings group](Images/Segmentation/building2.png)
 
 
-More Examples of Roas Segmentations
+More Examples of Roads Segmentations
 
 ![Roads_group](Images/Segmentation/roads.png)
 
